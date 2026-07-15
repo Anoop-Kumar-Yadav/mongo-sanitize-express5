@@ -1,0 +1,42 @@
+{
+  "name": "mongo-sanitize-express5",
+  "version": "1.0.0",
+  "description": "Express 4/5-compatible middleware to strip MongoDB operator injection ($ne, $where, $gt...), dot-notation field targeting, and prototype pollution from req.body/params/query.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "lib/"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "express5",
+    "mongo-sanitize",
+    "nosql-injection",
+    "mongodb-security",
+    "prototype-pollution",
+    "express-middleware"
+  ],
+  "peerDependencies": {
+    "express": "^4.0.0 || ^5.0.0"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anoop-Kumar-Yadav/mongo-sanitize-express5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Anoop-Kumar-Yadav/mongo-sanitize-express5/issues"
+  },
+  "homepage": "https://github.com/Anoop-Kumar-Yadav/mongo-sanitize-express5#readme",
+  "author": "Anoop Kumar Yadav",
+  "publishConfig": {
+    "access": "public"
+  }
+}

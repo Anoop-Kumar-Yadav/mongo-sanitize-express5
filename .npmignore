@@ -1,0 +1,7 @@
+.github/
+test/
+*.test.js
+.vscode/
+.idea/
+.DS_Store
+*.log
