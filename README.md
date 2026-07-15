@@ -1,5 +1,10 @@
 # mongo-sanitize-express5
 
+[![CI](https://github.com/Anoop-Kumar-Yadav/mongo-sanitize-express5/actions/workflows/ci.yml/badge.svg)](https://github.com/Anoop-Kumar-Yadav/mongo-sanitize-express5/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/mongo-sanitize-express5.svg)](https://www.npmjs.com/package/mongo-sanitize-express5)
+[![npm downloads](https://img.shields.io/npm/dm/mongo-sanitize-express5.svg)](https://www.npmjs.com/package/mongo-sanitize-express5)
+[![license](https://img.shields.io/npm/l/mongo-sanitize-express5.svg)](./LICENSE)
+
 Express **4 and 5** compatible NoSQL-injection sanitizer. Zero dependencies.
 
 ## Why not `express-mongo-sanitize`?
