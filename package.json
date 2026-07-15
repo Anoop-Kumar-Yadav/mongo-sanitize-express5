@@ -1,6 +1,6 @@
 {
   "name": "mongo-sanitize-express5",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express 4/5-compatible middleware to strip MongoDB operator injection ($ne, $where, $gt...), dot-notation field targeting, and prototype pollution from req.body/params/query.",
   "main": "index.js",
   "types": "index.d.ts",
